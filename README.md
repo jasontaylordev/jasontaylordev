@@ -9,7 +9,7 @@
     <a href="https://jasontaylor.dev"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a solution architect, trainer, mentor, and full stack developer with 20 years professional experience. I work for [https://www.increment.inc/](Increment). Currently, I specialise in teaching and building enterprise applications using .NET, Angular, React, Vue.js, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I'm a solution architect, trainer, mentor, and full stack developer with 20 years professional experience. I work for [Increment](https://www.increment.inc/). Currently, I specialise in teaching and building enterprise applications using .NET, Angular, React, Vue.js, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 ## GitHub Stats
 
