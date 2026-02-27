@@ -1,8 +1,6 @@
 ## Hi, I'm Jason 👋
 
-I'm a Solutions Architect & Software Engineer at [Particular Software](https://particular.net) using C#. All opinions are my own.
-
-I'm a solution architect, trainer, mentor, and full stack developer with 25 years professional experience. Currently, I specialise in teaching and building enterprise applications using .NET, Angular, React, Vue.js, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I'm a Solutions Architect & Software Engineer at [Particular Software](https://particular.net), with 25 years of experience as a trainer, mentor, and full stack developer. I specialise in building enterprise applications using .NET, Angular, React, Vue, Blazor, and Azure. All opinions are my own.
 
 ## Featured Projects
 
