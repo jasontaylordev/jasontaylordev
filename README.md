@@ -14,8 +14,8 @@ I'm a solution architect, trainer, mentor, and full stack developer with 25 year
 | Project | Description | Stars |
 |---------|-------------|------:|
 | [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | Clean Architecture Solution Template for ASP.NET Core | ⭐ 19.7k |
+| [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) | Sample application built using ASP.NET Core and Entity Framework Core | ⭐ 5k |
 | [RapidBlazor](https://github.com/jasontaylordev/RapidBlazor) | Clean Architecture Solution Template for Blazor WebAssembly | ⭐ 312 |
-| [flexible-aspnetcore-authorization](https://github.com/jasontaylordev/flexible-aspnetcore-authorization) | Flexible authorization for ASP.NET Core | ⭐ 211 |
 | [RapidConsole](https://github.com/jasontaylordev/RapidConsole) | Command-line application template for .NET | ⭐ 165 |
 
 ## GitHub Stats
