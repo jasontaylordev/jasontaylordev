@@ -7,11 +7,11 @@
     <a href="https://jasontaylor.dev"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a solution architect, trainer, mentor, and full stack developer with 20 years professional experience. Currently, I specialise in teaching and building enterprise applications using .NET, Angular, React, Vue.js, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I'm a solution architect, trainer, mentor, and full stack developer with 25 years professional experience. Currently, I specialise in teaching and building enterprise applications using .NET, Angular, React, Vue.js, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 ## GitHub Stats
 
 <a href="https://github.com/jasontaylordev">
   <img height="180em" src="https://streak-stats.demolab.com?user=JasonTaylorDev&theme=shades-of-purple" alt="JasonTaylorDev's GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonTaylorDev&theme=shades-of-purple&layout=compact" alt="JasonTaylorDev GitHub Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasonTaylorDev&show_icons=true&theme=shades-of-purple" alt="JasonTaylorDev's GitHub Stats" />
 </a>
