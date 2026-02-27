@@ -1,6 +1,6 @@
 ## Hi, I'm Jason 👋
 
-I'm a Solutions Architect & Software Engineer at [Particular Software](https://particular.net) and Microsoft MVP, with 25 years of experience across legal, government, logistics, financial services, and education. I specialise in building and deploying cloud-based enterprise applications with .NET and Azure.
+I'm a Solutions Architect & Software Engineer at [Particular Software](https://particular.net) and [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/4df6e9b2-396f-ed11-81ab-000d3a5600fa) in Developer Technologies, with 25 years of experience across legal, government, logistics, financial services, and education. I specialise in building and deploying cloud-based enterprise applications with .NET and Azure.
 
 ## Featured Projects
 
