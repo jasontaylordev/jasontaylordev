@@ -11,12 +11,42 @@ I'm a solution architect, trainer, mentor, and full stack developer with 25 year
 
 ## Featured Projects
 
-| Project | Description | Stars |
-|---------|-------------|------:|
-| [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | Clean Architecture Solution Template for ASP.NET Core | ⭐ 19.7k |
-| [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) | Sample application built using ASP.NET Core and Entity Framework Core | ⭐ 5k |
-| [RapidBlazor](https://github.com/jasontaylordev/RapidBlazor) | Clean Architecture Solution Template for Blazor WebAssembly | ⭐ 312 |
-| [RapidConsole](https://github.com/jasontaylordev/RapidConsole) | Command-line application template for .NET | ⭐ 165 |
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jasontaylordev/CleanArchitecture"><b>CleanArchitecture</b></a> — Clean Architecture Solution Template for ASP.NET Core</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jasontaylordev/CleanArchitecture?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jasontaylordev/CleanArchitecture?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jasontaylordev/CleanArchitecture?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jasontaylordev/NorthwindTraders"><b>NorthwindTraders</b></a> — Sample application built using ASP.NET Core and Entity Framework Core</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jasontaylordev/NorthwindTraders?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jasontaylordev/NorthwindTraders?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jasontaylordev/NorthwindTraders?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jasontaylordev/RapidBlazor"><b>RapidBlazor</b></a> — Clean Architecture Solution Template for Blazor WebAssembly</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jasontaylordev/RapidBlazor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jasontaylordev/RapidBlazor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jasontaylordev/RapidBlazor?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jasontaylordev/RapidConsole"><b>RapidConsole</b></a> — Command-line application template for .NET</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jasontaylordev/RapidConsole?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jasontaylordev/RapidConsole?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jasontaylordev/RapidConsole?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## GitHub Stats
 
