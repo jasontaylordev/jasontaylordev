@@ -1,6 +1,6 @@
 ## Hi, I'm Jason 👋
 
-I'm a Solutions Architect & Software Engineer at [Particular Software](https://particular.net), with 25 years of experience as a trainer, mentor, and full stack developer. I specialise in building enterprise applications using .NET, Angular, React, Vue, Blazor, and Azure. All opinions are my own.
+I'm a Solutions Architect & Software Engineer at [Particular Software](https://particular.net) and Microsoft MVP, with 25 years of experience across legal, government, logistics, financial services, and education. I specialise in building and deploying cloud-based enterprise applications with .NET and Azure.
 
 ## Featured Projects
 
@@ -39,5 +39,5 @@ I'm a Solutions Architect & Software Engineer at [Particular Software](https://p
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JasonTaylorDev&theme=shades-of-purple&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JasonTaylorDev&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
