@@ -1,6 +1,4 @@
 # Hey there! I'm [Jason](https://jasontaylor.dev) 👋
-<!-- <img src="wave.gif" width="24px"> -->
-![JasonTaylorDev](banner.png)
 
 <p align="center">
     <a href="https://x.com/jasontaylordev"><img src="https://img.shields.io/badge/-X-2D2B55?style=flat-square&logo=x&logoColor=white"/></a>
