@@ -12,7 +12,5 @@ I'm a solution architect, trainer, mentor, and full stack developer with 25 year
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/jasontaylordev">
-    <img src="https://streak-stats.demolab.com?user=JasonTaylorDev&theme=shades-of-purple" alt="JasonTaylorDev's GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JasonTaylorDev&theme=shades-of-purple&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
