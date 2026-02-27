@@ -1,4 +1,4 @@
-# Hey there! I'm [Jason](https://jasontaylor.dev) 👋
+## Hi, I'm Jason 👋
 
 <p align="center">
     <a href="https://x.com/jasontaylordev"><img src="https://img.shields.io/badge/-X-2D2B55?style=flat-square&logo=x&logoColor=white"/></a>
@@ -8,6 +8,23 @@
 </p>
 
 I'm a solution architect, trainer, mentor, and full stack developer with 25 years professional experience. Currently, I specialise in teaching and building enterprise applications using .NET, Angular, React, Vue.js, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+
+## Featured Projects
+
+<p align="center">
+  <a href="https://github.com/jasontaylordev/CleanArchitecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontaylordev&repo=CleanArchitecture&theme=shades-of-purple" />
+  </a>
+  <a href="https://github.com/jasontaylordev/RapidBlazor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontaylordev&repo=RapidBlazor&theme=shades-of-purple" />
+  </a>
+  <a href="https://github.com/jasontaylordev/flexible-aspnetcore-authorization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontaylordev&repo=flexible-aspnetcore-authorization&theme=shades-of-purple" />
+  </a>
+  <a href="https://github.com/jasontaylordev/RapidConsole">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontaylordev&repo=RapidConsole&theme=shades-of-purple" />
+  </a>
+</p>
 
 ## GitHub Stats
 
