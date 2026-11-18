@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jasontaylor.dev"><img src="assets/header.png" alt="Jason Taylor: practical approaches to building .NET applications" width="830" /></a>
+  <a href="https://jasontaylor.dev"><img src="assets/header.png" alt="Jason Taylor: Solutions Architect at Particular Software and Microsoft MVP, Developer Technologies" width="830" /></a>
 </p>
 
 ## Hi, I'm Jason 👋
